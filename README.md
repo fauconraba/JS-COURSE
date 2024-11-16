@@ -7,4 +7,5 @@
 | Section          | Folder Name       | Description                     |
 |------------------|-------------------|---------------------------------|
 | Basics           | `01_basics`      | Introduction to JavaScript basics |
+| functions        | `02_functions`   |	Understanding and using functions |
 
