@@ -14,7 +14,7 @@ function computerMove(){
 
 if ( result >=0 && result <= 1/3)
 {
-  //rock
+  
   move = 'Rock';
 }
 else if (result > 1/3 && result <= 2/3) {
