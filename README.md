@@ -10,5 +10,4 @@
 | functions        | `02_functions`   |	Understanding and using functions |
 | objects          |  `03_objects`    |                                   |
 | array loops      |  `07_arrLoops `  | declartion, new Array() ,length,  |
-|                   |                  |  push() ,  splice() ,       
-hh|
+|                   |                  |  push() ,  splice() ,       |
