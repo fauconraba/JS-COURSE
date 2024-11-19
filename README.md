@@ -3,6 +3,9 @@
 #### This repository contains folders for each section of JavaScript course.
 #### Each folder includes practice files and examples relevant to the topic.
 #### Use the table below to explore the contents.
+<br>
+
+#### 08 -> practice with calling functions a
 
 | Section          | Folder Name       | Description                     |
 |------------------|-------------------|---------------------------------|
